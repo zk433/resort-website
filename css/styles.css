@@ -1,3 +1,15 @@
+body {
+	background-color: black;
+}
+
 h1 {
-	color: blue;
+	color: yellow;
+}
+
+p {
+	color: white;
+}
+
+a {
+	color: pink;
 }
